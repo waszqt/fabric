@@ -1,4 +1,4 @@
-module github.com/hyperledger/fabric/v2
+module github.com/hyperledger/fabric
 
 go 1.14
 
